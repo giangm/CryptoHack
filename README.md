@@ -5,6 +5,17 @@
 |Finding Flags|2|Introduction|crypto{y0ur_f1rst_fl4g}|
 |Great Snakes|3|Introduction|crypto{z3n_0f_pyth0n}|
 |Network Attacks|5|Introduction|crypto{sh0pp1ng_f0r_fl4g5}|
+|ASCII|5|General (Encoding)|crypto{ASCII_pr1nt4bl3}|
+|Hex|5|General (Encoding)|crypto{You_will_be_working_with_hex_strings_a_lot}|
+|Base64|10|General (Encoding)|crypto/Base+64+Encoding+is+Web+Safe/|
+|Bytes and Big Integers|10|General (Encoding)|crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}|
+|Encoding Challenge|40|General (Encoding)|crypto{3nc0d3_d3c0d3_3nc0d3}|
+|XOR Starter|10|General (XOR)|crypto{aloha}|
+|XOR Properties|15|General (XOR)|crypto{x0r_i5_ass0c1at1v3}|
+|Favourite byte|20|General (XOR)|crypto{0x10_15_my_f4v0ur173_by7e}|
+|You either know, XOR you don't|30|General (XOR)|crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}|
+|Lemur XOR|40|General (XOR)||
+|Greatest Common Divisor|15|General (Mathematics)|crypto{1512}|
 
 ---
 
@@ -710,7 +721,7 @@ Category: <kbd>General (XOR)</kbd>
 ## Greatest Common Divisor
 *Points: 15*
 <br/>
-Category: <kbd>General (MATHEMATICS)</kbd>
+Category: <kbd>General (Mathematics)</kbd>
 
 ### Challenge Description
 > The Greatest Common Divisor (GCD), sometimes known as the highest common factor, is the largest number which divides two positive integers (a,b).
